@@ -5,5 +5,5 @@
 <br>
 <h3>environment</h3>
 <small>JAVA :  GraalVM for JDK 21 </small><br>
-<small>Spring boot : 3.4.12 <strong>*not release version </strong></small>
+<small>Spring boot : 3.4.12 <strong>*not release version </strong></small><br>
 <small>swagger : 3.x </small>
